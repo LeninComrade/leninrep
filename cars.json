@@ -1,0 +1,29 @@
+{
+  "carMark" : "TOYOTA",
+  "carModel" : "CRESTA",
+  "carDrivers" : [
+    {
+      "carType" : "Седан",
+      "driversName" : "Илья",
+      "carColor" : "Белый",
+      "carNumber" : "Т206ХМ"
+    },
+    {
+      "carType" : "Универсал",
+      "driversName" : "Фархот",
+      "carColor" : "Серый",
+      "carNumber" : "Х155ОР"
+    },
+    {
+      "carType" : "Седан",
+      "driversName" : "Илья",
+      "carColor" : "Белый",
+      "carNumber" : "С728ОА"
+    },
+    {
+      "carType" : "Минивен",
+      "driversName" : "Николай",
+      "carColor" : "Белый",
+      "carNumber" : "Х333АУ"
+    }
+  ]
